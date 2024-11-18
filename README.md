@@ -1,4 +1,4 @@
-# Alexpasmantier Television
+# Television
 
 ## How do I install these formulae?
 
