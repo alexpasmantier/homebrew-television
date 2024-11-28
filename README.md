@@ -1,18 +1,7 @@
-# Television
+# Television Homebrew Tap (Deprecated)
 
-## How do I install these formulae?
+[`television`](https://github.com/alexpasmantier/television) has been migrated to [Homebrew/core](https://github.com/Homebrew/homebrew-core/blob/master/Formula/t/television.rb)
 
-`brew install alexpasmantier/television/<formula>`
+## Install Television with Homebrew
 
-Or `brew tap alexpasmantier/television` and then `brew install <formula>`.
-
-Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
-
-```ruby
-tap "alexpasmantier/television"
-brew "<formula>"
-```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew install television`
